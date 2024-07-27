@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Applied Psychology, Soochow University, 2022-2025
