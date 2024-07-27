@@ -21,20 +21,19 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Skills:
+  * English 
+  * Mandarin
+* Quantitative Skills:
+  * Python (Proficient), R
+  * SQL
+* Software Skills:
+  * MS Office, Prezi
+  * Tableau, Power BI
+  * Photoshop, Premiere Pro, Canva
 
 Publications
 ======
