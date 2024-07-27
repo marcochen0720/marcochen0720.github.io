@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiayi Chen / Site Title"
+title                    : "Jiayi (Marco) Chen "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &Jiayi Chen 
 description              : &description "personal description"
 url                      : https://marcochen0720.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
