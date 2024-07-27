@@ -25,16 +25,13 @@ Work experience
   
 Skills
 ======
-* Language Skills:
-  * English 
-  * Mandarin
-* Quantitative Skills:
-  * Python (Proficient), R
-  * SQL
+* Language Skills: English, Mandarin
+* Quantitative Skills: Python (Proficient), R, SQL
 * Software Skills:
   * MS Office, Prezi
   * Tableau, Power BI
   * Photoshop, Premiere Pro, Canva
+
 
 Publications
 ======
