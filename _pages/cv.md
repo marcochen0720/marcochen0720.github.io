@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Applied Psychology, Soochow University, 2022-2025
+* B.BA. in Accounting, Soochow University, 2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2024: Bank of China Investment Management
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -27,10 +26,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
