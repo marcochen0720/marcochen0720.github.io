@@ -21,12 +21,12 @@ repository               : "marcochen0720/marcochen0720-github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1862.JPG"
   name             : "Jiayi Chen"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergrad @ Soochow University"
   location         : "Suzhou"
-  employer         : "Soochow University"
+  employer         : 
   uri              : # URL
   email            : "marcochen0720@outlook.com" 
 
