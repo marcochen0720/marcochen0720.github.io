@@ -18,21 +18,21 @@ Education
 Work experience
 ======
 * Summer 2024: Bank of China Investment Management
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Sought alpha through Genetic Algorithm and replication of reports
+  * Constructed predicting models using both statistical and ML/DL methods
+  * Conducted backtest and calculated average RankIC of over 0.1
 
   
 Skills
 ======
 * Language Skills: English, Mandarin
-* Quantitative Skills: Python (Proficient), R, SQL
+* Quantitative Skills: Python (Most Proficient), R, SQL
 * Software Skills:
   * MS Office, Prezi
   * Tableau, Power BI
   * Photoshop, Premiere Pro, Canva
 
-
+---
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -54,3 +54,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+---
