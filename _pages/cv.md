@@ -25,8 +25,8 @@ Work experience
   
 Skills
 ======
-* Language Skills: English, Mandarin
-* Quantitative Skills: Python (Most Proficient), R, SQL
+* Language: English(Fluent), Mandarin(Native)
+* Programming: Python (Most Proficient), R, SQL
 * Software Skills:
   * MS Office, Prezi
   * Tableau, Power BI
