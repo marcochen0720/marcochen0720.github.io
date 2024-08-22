@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2024: Bank of China Investment Management
+* Summer 2024: Bank of China Investment Management Co., Ltd. (BOCIM)
   * Sought alpha through Genetic Algorithm and replication of reports
   * Constructed predicting models using both statistical and ML/DL methods
   * Conducted backtest and calculated average RankIC of over 0.1
