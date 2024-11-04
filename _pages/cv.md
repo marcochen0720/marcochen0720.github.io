@@ -18,9 +18,9 @@ Education
 Work experience
 ======
 * Summer 2024: Bank of China Investment Management Co., Ltd. (BOCIM)
-  * 	Sought alpha through Genetic Algorithm and replication of reports
-  * 	Constructed predicting models using both statistical and ML/DL methods
-  * 	Conducted backtest and calculated average RankIC of over 0.1
+  * Sought alpha through Genetic Algorithm and replication of reports
+  * Constructed predicting models using both statistical and ML/DL methods
+  * Conducted backtest and calculated average RankIC of over 0.1
 
 * Fall 2024: Deloitte iBond ( Shanghai ) Co., Ltd.
   *	Bond Risk Early Warning Model Development: Contributed to a multi-dimensional risk analysis model, integrating sentiment, market, and fundamental data layers to assess bond issuers’ stress indices and default risk.
