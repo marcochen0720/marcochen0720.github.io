@@ -21,6 +21,10 @@ Work experience
   * Sought alpha through Genetic Algorithm and replication of reports
   * Constructed predicting models using both statistical and ML/DL methods
   * Conducted backtest and calculated average RankIC of over 0.1
+* Fall 2024: Deloitte 
+  *	Bond Risk Early Warning Model Development: Contributed to a multi-dimensional risk analysis model, integrating sentiment, market, and fundamental data layers to assess bond issuers’ stress indices and default risk.
+	*	Data Processing & Dynamic Monitoring: Employed Python for real-time data scraping and processing from various sources, dynamically updating warning scores using decay algorithms.
+	*	Risk Propagation & Model Optimization: Designed a network model to analyze risk transmission paths, utilizing an SIS model to capture credit risk contagion among enterprises, and assisted in the transition between legacy and new models.
 
   
 Skills
