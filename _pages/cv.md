@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Psychology, Soochow University, 2022-2025
-* B.BA. in Accounting, Soochow University, 2021-2025
+* Visiting Students in IEOR and Haas, University of California, Berkeley, 2024.1- 2024.5
+* B.S. in Applied Psychology, Soochow University, 2022.9- 2025.6
+* B.BA. in Accounting, Soochow University, 2021.9- 2025.6
 
 Work experience
 ======
