@@ -11,10 +11,19 @@ redirect_from:
 [My CV is here](https://drive.google.com/file/d/10TXgXLxSadKUjpItiY7A-hNLFdoSMkj8/view?usp=sharing)
 
 Education
-======
-* Visiting Students in IEOR and Haas, University of California, Berkeley, 2024.1- 2024.5
-* B.S. in Applied Psychology, Soochow University, 2022.9- 2025.6
-* B.BA. in Accounting, Soochow University, 2021.9- 2025.6
+=========
+### **University of California, Berkeley**  
+**Visiting Student** | January 2024 – May 2024  
+- Departments: Industrial Engineering and Operations Research (IEOR) and Haas School of Business.  
+- Focus: Data analytics, operations research, and business decision-making.  
+
+### **Soochow University**  
+**Bachelor of Science (B.S.) in Applied Psychology** | September 2022 – June 2025  
+- Relevant coursework: Behavioral Psychology, Statistical Analysis, Cognitive Science.  
+
+**Bachelor of Business Administration (B.BA.) in Accounting** | September 2021 – June 2025  
+- Relevant coursework: Financial Accounting, Managerial Accounting, Auditing, Corporate Finance.  
+- Honors: University Scholarship for Outstanding Students (2023).  
 
 Work experience
 ======
