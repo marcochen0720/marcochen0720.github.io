@@ -25,7 +25,7 @@ Education
 
 **Bachelor of Business Administration (B.BA.) in Accounting** | September 2021 – June 2025  
 - Relevant coursework: Financial Accounting, Managerial Accounting, Auditing, Corporate Finance.  
-- Honors: University Scholarship for Outstanding Students (2023).  
+- Honors: Innovation and Entrepreneurship Scholarship (Outstanding Prize,0.5%,2023).  
 
 ---
 
