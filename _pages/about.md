@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Jiayi Chen is now a senior student at Soochow University, majoring in Accounting and minoring in Applied Psychology. Through his college years, he gradually developed an interest in data analytics and operation research. In the spring of 2024, he went to the University of California, Berkeley as a visiting student at the IEOR Department and Haas Business School.
+Jiayi Chen is a senior student at Soochow University, majoring in Accounting and minoring in Applied Psychology. He developed a strong interest in data analytics and operations research during his undergraduate studies. In Spring 2024, he joined the University of California, Berkeley as a visiting student at the IEOR Department and Haas Business School.
 
-Jiayi's career goal is to provide a quantitative explanation, combined with psychological theory, in the context of healthcare and finance. In the summer of 2024, he will join Bank of China Investment Management (BOCIM) as a quantitative research intern.
-
+Jiayi has interned at Deloitte as a data analyst and at Bank of China Investment Management (BOCIM) as a quantitative research intern. His career goal is to integrate quantitative analysis with psychological theories, focusing on applications in healthcare and finance. Jiayi aims to provide innovative, data-driven solutions to complex challenges in these fields.
