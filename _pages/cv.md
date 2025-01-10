@@ -36,14 +36,10 @@ Work Experience
 
 ### **Deloitte iBond (Shanghai) Co., Ltd.**  
 **Data Analyst Intern** | Fall 2024  
-- **Bond Risk Early Warning Model Development**:  
-  - Contributed to a multi-dimensional risk analysis model combining **sentiment analysis**, **market data**, and **fundamental indicators** to evaluate stress indices and default risks of bond issuers.  
-- **Data Processing & Dynamic Monitoring**:  
-  - Utilized **Python** for real-time data scraping and processing from various sources.  
-  - Implemented decay algorithms for dynamically updating risk warning scores.  
-- **Risk Propagation & Model Optimization**:  
-  - Designed a **network model** to analyze risk transmission paths, incorporating the **SIS model** for credit risk contagion analysis among enterprises.  
-  - Assisted in the transition from legacy systems to advanced models.  
+- Developed a **Bond Risk Early Warning Model** integrating **sentiment analysis**, **market data**, and **fundamental indicators** to evaluate stress indices and default risks of bond issuers.  
+- Employed **Python** for real-time data scraping and processing, dynamically updating risk scores using decay algorithms.  
+- Designed a **network model** to analyze risk transmission paths and utilized an **SIS model** to capture credit risk contagion among enterprises.  
+- Assisted in transitioning from legacy systems to advanced risk assessment models.  
 
 ---
 
@@ -55,7 +51,7 @@ Skills
 - Mandarin (Native)  
 
 ### **Programming**  
-- **Python** (Proficient)  
+- **Python** (Most Proficient)  
 - R, SQL  
 
 ### **Software Tools**  
