@@ -24,9 +24,7 @@ author:
   avatar           : "IMG_1862.JPG"
   name             : "Jiayi (Marco) Chen"
   pronouns         : "He/His" # example: "she/her"  
-  bio              : |
-    Incoming grad @ Cal
-    Undergrad @ Soochow University
+ bio              : "Incoming grad @ Cal<br/>Undergrad @ Soochow University"
   location         : "Suzhou"
   employer         : "BOCIM"
   uri              : # URL
