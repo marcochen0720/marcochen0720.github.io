@@ -2,7 +2,7 @@
 layout: projects
 title: Psychological Resilience and Work-Family Conflict Analysis
 description: NLP-based analysis of psychological resilience and work-family conflict among stay-at-home mothers through semi-structured interviews
-img: assets/img/psychological_resilience_analysis.jpg
+img: images/psych_nlp.png
 importance: 1
 category: research
 ---
