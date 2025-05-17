@@ -2,73 +2,106 @@
 layout: default
 ---
 <style>
-.project-container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  line-height: 1.6;
+/* 增加选择器特异性和!important声明确保样式被应用 */
+html body .project-container {
+  max-width: 800px !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+  line-height: 1.6 !important;
+  box-sizing: border-box !important;
+  width: 100% !important;
 }
 
-.project-container h1 {
-  font-size: 2em;
-  margin-bottom: 0.8em;
+html body .project-container h1 {
+  font-size: 2em !important;
+  margin-bottom: 0.8em !important;
+  text-align: left !important;
 }
 
-.project-container h2 {
-  font-size: 1.5em;
-  margin-top: 1.5em;
-  margin-bottom: 0.8em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #eaecef;
+html body .project-container h2 {
+  font-size: 1.5em !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.8em !important;
+  padding-bottom: 0.3em !important;
+  border-bottom: 1px solid #eaecef !important;
+  text-align: left !important;
 }
 
-.project-container h3 {
-  font-size: 1.3em;
-  margin-top: 1.2em;
-  margin-bottom: 0.8em;
+html body .project-container h3 {
+  font-size: 1.3em !important;
+  margin-top: 1.2em !important;
+  margin-bottom: 0.8em !important;
+  text-align: left !important;
 }
 
-.project-container p {
-  margin-bottom: 1em;
+html body .project-container p {
+  margin-bottom: 1em !important;
+  text-align: left !important;
+  width: 100% !important;
 }
 
-.project-container ul, .project-container ol {
-  margin-bottom: 1em;
-  padding-left: 2em;
+html body .project-container ul, 
+html body .project-container ol {
+  margin-bottom: 1em !important;
+  padding-left: 2em !important;
+  text-align: left !important;
+  width: auto !important;
 }
 
-.project-container li {
-  margin-bottom: 0.5em;
+html body .project-container li {
+  margin-bottom: 0.5em !important;
+  text-align: left !important;
 }
 
-.project-container pre {
-  background-color: #f6f8fa;
-  border-radius: 3px;
-  padding: 16px;
-  overflow: auto;
-  margin-bottom: 16px;
+html body .project-container pre {
+  background-color: #f6f8fa !important;
+  border-radius: 3px !important;
+  padding: 16px !important;
+  overflow: auto !important;
+  margin-bottom: 16px !important;
+  width: 100% !important;
 }
 
-.project-container code {
-  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-  background-color: rgba(27, 31, 35, 0.05);
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
+html body .project-container code {
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace !important;
+  background-color: rgba(27, 31, 35, 0.05) !important;
+  padding: 0.2em 0.4em !important;
+  border-radius: 3px !important;
 }
 
-.project-container pre code {
-  background-color: transparent;
-  padding: 0;
+html body .project-container pre code {
+  background-color: transparent !important;
+  padding: 0 !important;
 }
 
-.project-container img {
-  max-width: 100%;
-  margin: 1em 0;
+html body .project-container img {
+  max-width: 100% !important;
+  margin: 1em 0 !important;
+  height: auto !important;
+  display: block !important;
 }
 
+/* 确保markdown内容也被正确样式化 */
+html body .project-container .markdown-content {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 针对代码高亮的额外样式 */
+html body .project-container .highlight {
+  margin-bottom: 16px !important;
+}
+
+html body .project-container .highlight pre {
+  margin-bottom: 0 !important;
+}
+
+/* 响应式设计 */
 @media (max-width: 768px) {
-  .project-container {
-    padding: 15px;
+  html body .project-container {
+    padding: 15px !important;
   }
 }
 </style>
@@ -76,5 +109,32 @@ layout: default
 <div class="project-container">
   <h1>{{ page.title }}</h1>
   
-  {{ content }}
+  <div class="markdown-content">
+    {{ content }}
+  </div>
 </div>
+
+<!-- 添加调试信息，帮助排查问题 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 检查.project-container是否存在并应用了正确的样式
+  const container = document.querySelector('.project-container');
+  if (container) {
+    console.log('Project container found');
+    console.log('Width:', window.getComputedStyle(container).width);
+    console.log('Max-width:', window.getComputedStyle(container).maxWidth);
+    console.log('Margin:', window.getComputedStyle(container).margin);
+  } else {
+    console.error('Project container not found!');
+  }
+  
+  // 检查.markdown-content是否存在
+  const content = document.querySelector('.markdown-content');
+  if (content) {
+    console.log('Markdown content found');
+    console.log('Width:', window.getComputedStyle(content).width);
+  } else {
+    console.error('Markdown content not found!');
+  }
+});
+</script>
