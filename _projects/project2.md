@@ -7,8 +7,6 @@ importance: 1
 category: research
 ---
 
-# The Impact of Solitary Eating on Dietary Behaviors and Mental Health
-
 ## Research Overview
 
 This research explores the multidimensional effects of solitary eating through a 7-day diary study measuring both dietary behaviors and psychological responses. Using objective measurements and subjective reports, the study challenges conventional negative views of solitary eating, revealing its complex impacts on both dietary choices and emotional wellbeing.
