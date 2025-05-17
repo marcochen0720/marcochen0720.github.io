@@ -51,7 +51,7 @@ permalink: /projects/
       <div class="project-card-content">
         <div class="project-card-title">{{ project.title }}</div>
         <div class="project-card-summary">{{ project.summary }}</div>
-        <a class="project-card-link" href="{{ project.link }}" target="_blank">查看项目 &rarr;</a>
+        <a class="project-card-link" href="{{ project.link }}" target="_blank">View Details &rarr;</a>
       </div>
     </div>
   {% endfor %}
