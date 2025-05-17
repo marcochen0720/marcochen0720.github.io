@@ -1,3 +1,14 @@
+---
+layout: projects
+title: The Impact of Solitary Eating on Dietary Behaviors and Mental Health
+description: NLP-based analysis of psychological resilience and work-family conflict among stay-at-home mothers through semi-structured interviews
+img: images/psych_nlp.png
+importance: 1
+category: research
+---
+
+
+
 # The Impact of Solitary Eating on Dietary Behaviors and Mental Health
 
 ## Research Overview
