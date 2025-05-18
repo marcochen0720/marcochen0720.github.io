@@ -53,21 +53,11 @@ redirect_from:
 
 <hr>
 
-<h2 id="skills">Skills</h2>
+<h2 id="skills">🛠️Skills</h2>
 
-### **Languages**
-- English (Fluent)
-- Mandarin (Native)
-
-### **Programming**
-- **Python** (Most Proficient)
-- R, SQL
-
-### **Software Tools**
-- **Data Visualization**: Tableau, Power BI
-- **Office Productivity**: MS Office, Prezi
-- **Creative Tools**: Photoshop, Premiere Pro, Canva
-
+- **Languages**: Python, R, SQL
+- **Visualization Tools**: Tableau, Power BI
+- **Financial & Quantitative Skills**: Machine Learning, Statistical Modeling, Genetic Algorithms
 <hr>
 
 <h2 id="publications">Publications</h2>
