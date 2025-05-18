@@ -1,70 +1,41 @@
-/* Add this block to assets/css/main.scss, AFTER the @import lines */
+---
+---
 
-.page__content { /* Targeting the main content area of the page */
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-  /* Increase space below main section headings (Education, Work Experience, etc.) */
-  h2 {
-    margin-top: 1.8em; /* Add space above the h2 */
-    margin-bottom: 1em; /* More space below the h2 */
-    padding-bottom: 0.5em; /* Add padding below text before border */
-    border-bottom: 1px solid #eee; /* Optional: Add a subtle light grey line */
-  }
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-  /* Adjust space below sub-headings (University, Job Title, etc.) */
-  h3 {
-      margin-top: 1.2em; /* Add space above the h3 */
-      margin-bottom: 0.8em; /* Add space below the h3 */
-  }
+@import "reset";
+@import "base";
 
-  /* Increase space between list items in Education and Work Experience */
-  /* This targets list items directly within ul in the content area */
-  ul > li {
-      margin-bottom: 1.5em; /* More space between list entries */
-      line-height: 1.6; /* Improve readability of description text */
-  }
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-  /* Add space around the horizontal rule */
-  hr {
-    margin-top: 2.5em;
-    margin-bottom: 2.5em;
-    border: none; /* Remove default border */
-    border-top: 1px solid #ddd; /* Add a custom border style */
-  }
+@import "forms";
 
-  /* Style for the introduction paragraph */
-  p {
-      margin-bottom: 1.5em; /* Add space below introduction */
-      line-height: 1.7; /* Slightly increased line height for intro */
-  }
+@import "page";
+@import "archive";
+@import "sidebar";
 
-   /* Ensure space below the PDF button container */
-  p.page__content { /* Target the specific paragraph wrapping the button */
-      margin-bottom: 2.5em; /* Add more space below the button */
-  }
-
-
-  /* Styling for the Publications section items */
-  /* minimal-mistakes uses .archive-single class for list items in archive views */
-  .archive-single {
-      margin-bottom: 2em; /* Space between publications */
-      padding-bottom: 1.5em; /* Padding below content */
-      border-bottom: 1px dashed #eee; /* Optional: Add a dashed separator */
-  }
-
-  /* Remove the separator from the last publication item */
-  .archive-single:last-child {
-      border-bottom: none;
-      padding-bottom: 0; /* Remove padding from the last item */
-  }
-
-  /* Adjust spacing within the publication item if needed */
-  /* For example, space below the title or date within .archive-single */
-   .archive-single .list__item-title {
-       margin-bottom: 0.5em;
-   }
-   .archive-single .list__item-meta {
-       margin-top: 0.5em;
-       margin-bottom: 0.5em;
-   }
-
-}
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
