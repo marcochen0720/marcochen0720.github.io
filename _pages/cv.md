@@ -51,16 +51,3 @@ redirect_from:
 - Designed a **network model** to analyze risk transmission paths and utilized an **SIS model** to capture credit risk contagion among enterprises.
 - Assisted in transitioning from legacy systems to advanced risk assessment models.
 
-<hr>
-
-<h2 id="skills">🛠️Skills</h2>
-
-- **Languages**: Python, R, SQL
-- **Visualization Tools**: Tableau, Power BI
-- **Financial & Quantitative Skills**: Machine Learning, Statistical Modeling, Genetic Algorithms
-<hr>
-
-<h2 id="publications">Publications</h2>
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
