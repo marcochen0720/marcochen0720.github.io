@@ -7,8 +7,6 @@ importance: 1
 category: research
 ---
 
-# Psychological Resilience and Work-Family Conflict Analysis
-
 ## Project Overview
 
 This research explores the psychological resilience of stay-at-home mothers facing work-family conflict using natural language processing (NLP) techniques. Through analyzing semi-structured interviews with 12 stay-at-home mothers, we examined how emotional resilience, behavioral resilience, and social support moderate work-family conflict, providing quantifiable insights into complex psychological phenomena.
